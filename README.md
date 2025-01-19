@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hassan Khaled</h1>
-<h3 align="center">A Verification Engineer from Egypt</h3>
+<h3 align="center">Verification Engineer from Egypt</h3>
 
 - 💬 Ask me about **IC Design, Verification and this stuff**
 
