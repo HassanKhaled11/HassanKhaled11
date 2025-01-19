@@ -13,4 +13,4 @@
 
 
 <h3 align="center">Support:</h3>
-<p><a href="[https://www.buymeacoffee.com/](https://buymeacoffee.com/hassankh)"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/HassanKh" /></a></p><br><br>
+<p><a href="https://buymeacoffee.com/hassankh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/HassanKh" /></a></p><br><br>
