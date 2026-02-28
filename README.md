@@ -1,13 +1,24 @@
-<h1 align="center">Hi 👋, I'm Hassan Khaled</h1>
-<h3 align="center">Verification Engineer from Egypt</h3>
+<!-- ===================== CYBER HEADER ===================== -->
 
-- 💬 Ask me about **IC Design, Verification and this stuff**
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hassan+Khaled;AI-Driven+Verification+Engineer;UVM+%7C+SystemVerilog+%7C+SerDes;Silicon+Reliability+Architect" />
+</h1>
 
-- 📫 How to reach me **Hassankhaled006@gmail.com**
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/hassan-khaled-898359219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hassan-khaled-898359219" height="30" width="40" /></a>
-<a href="http://www.youtube.com/@Hassan_khaled" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://www.youtube.com/@hassan_khaled" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/UVM-Advanced-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SystemVerilog-Expert-0AFF99?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SerDes-HighSpeed-FF00C8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-Design%20Verification-FFD700?style=for-the-badge"/>
 </p>
 
+---
+
+# 🧠 About Me
+
+```yaml
+Role: Senior / Staff Verification Engineer
+Experience: 4+ Years
+Domain: Functional Verification & GLS
+Specialization: High-Speed SerDes & Complex SoCs
+Focus: AI-Assisted Verification Automation
+Mission: Preventing Silicon Failure Before Tapeout
