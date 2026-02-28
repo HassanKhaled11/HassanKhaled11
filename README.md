@@ -1,14 +1,11 @@
 <!-- ===================== CYBER HEADER ===================== -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hassan+Khaled;AI-Driven+Verification+Engineer;UVM+%7C+SystemVerilog+%7C+SerDes;Silicon+Reliability+Architect" />
-</h1>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&border_radius=10&cache_seconds=86400" />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/UVM-Advanced-00F7FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SystemVerilog-Expert-0AFF99?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SerDes-HighSpeed-FF00C8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI-Design%20Verification-FFD700?style=for-the-badge"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanKhaled11&layout=compact&theme=tokyonight&border_radius=10&cache_seconds=86400" />
 </p>
 
 ---
