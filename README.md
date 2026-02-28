@@ -25,16 +25,30 @@ I specialize in the high-stakes world of **High-Speed SerDes** and **SoC Verific
 
 ---
 
-## 🛠️ The Verification Toolbox
+---
+
+## 🛠️ The Engineering & AI Toolbox
+
+### 🔬 Silicon Verification
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,py,matlab,linux,git,github,docker,vscode" />
+  <img src="https://img.shields.io/badge/SystemVerilog-Active-blue?style=flat-square&logo=cpu" />
+  <img src="https://img.shields.io/badge/UVM-Expert-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/EDA_Tools-Synopsys_VCS_|_Verdi-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Methodology-CDV_|_GLS-orange?style=flat-square" />
 </p>
 
-| Category | Technologies |
+### 🤖 AI & Machine Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikit-learn,linux,git" />
+</p>
+
+| AI Domain | Specific Verification Focus |
 | :--- | :--- |
-| **Verification** | `SystemVerilog` `UVM` `SVA` `UVM RAL` `GLS` |
-| **EDA Tools** | `Synopsys VCS` `Verdi` `QuestaSim`|
-| **Methodology** | `Coverage-Driven (CDV)` `Gate-Level Simulation (GLS)` |
+| **Deep Learning** | Waveform Pattern Recognition & Anomaly Detection |
+| **LLMs** | Prompt Engineering for Automated Testcase Generation |
+| **ML Models** | Regression models for Regression Trend Analysis |
+
+---
 
 ---
 
