@@ -16,7 +16,7 @@
 # 🧠 About Me
 
 ```yaml
-Role: Senior / Staff Verification Engineer
+Role: Design Verification Engineer
 Experience: 4+ Years
 Domain: Functional Verification & GLS
 Specialization: High-Speed SerDes & Complex SoCs
@@ -38,7 +38,6 @@ Mission: Preventing Silicon Failure Before Tapeout
 
 ## 🧰 Tools
 - Synopsys VCS
-- Cadence Xcelium
 - Questa
 - Verdi
 - Git
@@ -61,7 +60,7 @@ Building robust environments for high-speed interface reliability.
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&border_color=00F7FF"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HassanKhaled11&show_icons=true&theme=tokyonight&border_color=00F7FF"/>
 </p>
 
 <p align="center">
@@ -73,7 +72,7 @@ Building robust environments for high-speed interface reliability.
 # 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=HassanKhaled11&theme=matrix&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -81,7 +80,7 @@ Building robust environments for high-speed interface reliability.
 # 🔥 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/HassanKhaled11/HassanKhaled11/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -98,7 +97,7 @@ Building robust environments for high-speed interface reliability.
 # 🌐 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/hassan-khaled-898359219">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
