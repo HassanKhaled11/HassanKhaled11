@@ -1,15 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Hassan%20Khaled&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:000000,100:0e75b6&height=200&section=header&text=Hassan%20Khaled&fontSize=70&animation=fadeIn" />
 
   ### 🛡️ Engineering Confidence in Silicon | AI + UVM + SerDes
   
   *4+ Years of breaking designs to ensure they never fail in production.*
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=HassanKhaled11&label=Cycles%20Simulated&color=0e75b6&style=flat-square" />
+  </p>
 </div>
 
 ---
 
 ## 🧠 The Mission
-I specialize in the high-stakes world of **High-Speed SerDes** and **SoC Verification**. My approach combines the rigor of **UVM/SystemVerilog** with the efficiency of **AI-driven automation** to accelerate coverage and eliminate escapes before tapeout.
+I specialize in the high-stakes world of **High-Speed SerDes** and **SoC Verification**. My approach combines the rigor of **UVM/SystemVerilog** with the efficiency of **AI-driven automation**.
 
 - 🚀 **Currently:** Scaling AI-powered coverage gap detection.
 - 🔬 **Expertise:** UVM, GLS, SVA, and Constrained Random Verification.
@@ -31,19 +35,18 @@ I specialize in the high-stakes world of **High-Speed SerDes** and **SoC Verific
 ## 📊 Engineering Metrics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HassanKhaled11&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanKhaled11&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HassanKhaled11&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HassanKhaled11&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanKhaled11&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🏆 Hardware Verification Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HassanKhaled11&theme=darkhub&no-frame=true&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HassanKhaled11&theme=onedark&no-frame=true&margin-w=15" />
 </p>
 
 ---
@@ -56,10 +59,6 @@ I specialize in the high-stakes world of **High-Speed SerDes** and **SoC Verific
   <a href="mailto:Hassankhaled006@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HassanKhaled11&label=Cycles%20Simulated&color=0e75b6&style=flat-square" />
 </p>
 
 ---
