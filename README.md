@@ -36,10 +36,10 @@ I specialize in the high-stakes world of **High-Speed SerDes** and **SoC Verific
   <img src="https://img.shields.io/badge/EDA_Tools-Synopsys_VCS_|_Verdi-red?style=flat-square" />
   <img src="https://img.shields.io/badge/Methodology-CDV_|_GLS-orange?style=flat-square" />
 </p>
-
+---
 ### 🤖 AI & Machine Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikit-learn,linux,git" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,linux,git" />
 </p>
 
 | AI Domain | Specific Verification Focus |
