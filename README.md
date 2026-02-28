@@ -16,7 +16,7 @@
 # 🧠 About Me
 
 ```yaml
-Role: Senior / Staff Verification Engineer
+Role: Design Verification Engineer
 Experience: 4+ Years
 Domain: Functional Verification & GLS
 Specialization: High-Speed SerDes & Complex SoCs
