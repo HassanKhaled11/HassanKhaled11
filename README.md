@@ -1,10 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:000000,100:0e75b6&height=200&section=header&text=Hassan%20Khaled&fontSize=70&animation=fadeIn" />
+  <h1> 🛡️ Hassan Khaled </h1>
+  
+  ### AI-Driven Verification Engineer | UVM | SystemVerilog | High-Speed SerDes
+  
+  *4+ Years of engineering confidence in silicon through intelligent verification.*
 
-  ### 🛡️ Engineering Confidence in Silicon | AI + UVM + SerDes
-  
-  *4+ Years of breaking designs to ensure they never fail in production.*
-  
+  ![](https://img.shields.io/badge/Verification-UVM%20%7C%20SystemVerilog-0e75b6?style=for-the-badge)
+  ![](https://img.shields.io/badge/Focus-AI%20Automation-success?style=for-the-badge)
+  ![](https://img.shields.io/badge/Domain-SerDes%20%26%20SoC-orange?style=for-the-badge)
+
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=HassanKhaled11&label=Cycles%20Simulated&color=0e75b6&style=flat-square" />
   </p>
@@ -13,40 +17,30 @@
 ---
 
 ## 🧠 The Mission
-I specialize in the high-stakes world of **High-Speed SerDes** and **SoC Verification**. My approach combines the rigor of **UVM/SystemVerilog** with the efficiency of **AI-driven automation**.
+I specialize in the high-stakes world of **High-Speed SerDes** and **SoC Verification**. My approach combines the rigor of **UVM/SystemVerilog** with the efficiency of **AI-driven automation** to eliminate escapes before tapeout.
 
-- 🚀 **Currently:** Scaling AI-powered coverage gap detection.
-- 🔬 **Expertise:** UVM, GLS, SVA, and Constrained Random Verification.
-- ⚡ **Goal:** Zero-defect silicon through intelligent verification environments.
+* 🚀 **Currently:** Scaling AI-powered coverage gap detection.
+* 🔬 **Expertise:** UVM, GLS, SVA, and Constrained Random Verification.
+* ⚡ **Goal:** Zero-defect silicon through intelligent, scalable environments.
 
 ---
 
 ## 🛠️ The Verification Toolbox
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,py,matlab,linux,git,github,docker,vscode" />
+</p>
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `SystemVerilog` `UVM` `Python` `C++` `MATLAB` `SVA` |
-| **Simulators** | `Synopsys VCS` `Cadence Xcelium` `Siemens Questa` |
-| **Debug & Analysis** | `Verdi` `Coverage-Driven Verification` `Gate-Level Simulation` |
-| **Automation** | `AI-Assisted Testbench Gen` `PyUVM` `Shell Scripting` |
+| **Verification** | `SystemVerilog` `UVM` `SVA` `Formal` |
+| **EDA Tools** | `Synopsys VCS` `Cadence Xcelium` `Verdi` |
+| **Methodology** | `Coverage-Driven (CDV)` `Gate-Level Simulation (GLS)` |
 
 ---
 
 ## 📊 Engineering Metrics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HassanKhaled11&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanKhaled11&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 Hardware Verification Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HassanKhaled11&theme=onedark&no-frame=true&margin-w=15" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HassanKhaled11&show_icons=true&theme=tokyonight&hide_border=true" alt="Hassan's Stats" />
 </p>
 
 ---
@@ -63,4 +57,6 @@ I specialize in the high-stakes world of **High-Speed SerDes** and **SoC Verific
 
 ---
 
-> *"Verification is the art of proving a negative. If I'm doing my job right, nothing happens."*
+<p align="center">
+  <i>"Verification is the art of proving a negative. If I'm doing my job right, nothing happens."</i>
+</p>
