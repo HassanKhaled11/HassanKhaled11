@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 🛡️ Hassan Khaled </h1>
+  <h1> Hassan Khaled </h1>
   
   ### AI-Driven Verification Engineer | UVM | SystemVerilog | High-Speed SerDes
   
@@ -51,14 +51,6 @@ I specialize in the high-stakes world of **High-Speed SerDes** and **SoC Verific
   <img src="https://img.shields.io/badge/UVM_Methodology-Expert-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SystemVerilog-Advanced-orange?style=for-the-badge" />
 </p>
-
-### 🔬 Core Competencies & Logic
-| Metric | Progress | Status |
-| :--- | :--- | :--- |
-| **Verification Planning** | ██████████████████▒▒ | `90%` |
-| **UVM Environment Architecture** | ████████████████████ | `100%` |
-| **Python Automation / AI** | ██████████████▒▒▒▒▒▒ | `75%` |
-| **High-Speed SerDes Logic** | ████████████████▒▒▒▒ | `85%` |
 
 ---
 
