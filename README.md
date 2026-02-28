@@ -37,7 +37,7 @@ I specialize in the high-stakes world of **High-Speed SerDes** and **SoC Verific
   <img src="https://img.shields.io/badge/Methodology-CDV_|_GLS-orange?style=flat-square" />
 </p>
 
----
+
 
 ### 🤖 AI & Machine Learning
 <p align="left">
