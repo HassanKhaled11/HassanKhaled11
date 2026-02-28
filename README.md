@@ -32,31 +32,33 @@ I specialize in the high-stakes world of **High-Speed SerDes** and **SoC Verific
 
 | Category | Technologies |
 | :--- | :--- |
-| **Verification** | `SystemVerilog` `UVM` `SVA` `Formal` |
-| **EDA Tools** | `Synopsys VCS` `Cadence Xcelium` `Verdi` |
+| **Verification** | `SystemVerilog` `UVM` `SVA` `UVM RAL` `GLS` |
+| **EDA Tools** | `Synopsys VCS` `Verdi` `QuestaSim`|
 | **Methodology** | `Coverage-Driven (CDV)` `Gate-Level Simulation (GLS)` |
 
 ---
 
 ## 📊 Engineering Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HassanKhaled11&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Hassan's Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HassanKhaled11&theme=tokyonight&hide_border=true" alt="Hassan's Streak" />
 </p>
 
 ---
-
-## 🧪 Verification Proficiency Index
-<p align="left">
-  <img src="https://img.shields.io/badge/SystemVerilog-100%25-0e75b6?style=flat-square" />
-  <img src="https://img.shields.io/badge/UVM_Methodology-Expert-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/SVA_Assertions-Advanced-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Python_Scripting-Automated-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/SerDes_PHY-Validated-red?style=flat-square" />
+## 📊 Engineering Proficiency
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-4+_Years-0e75b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UVM_Methodology-Expert-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SystemVerilog-Advanced-orange?style=for-the-badge" />
 </p>
+
+### 🔬 Core Competencies & Logic
+| Metric | Progress | Status |
+| :--- | :--- | :--- |
+| **Verification Planning** | ██████████████████▒▒ | `90%` |
+| **UVM Environment Architecture** | ████████████████████ | `100%` |
+| **Python Automation / AI** | ██████████████▒▒▒▒▒▒ | `75%` |
+| **High-Speed SerDes Logic** | ████████████████▒▒▒▒ | `85%` |
 
 ---
 
