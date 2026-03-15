@@ -70,7 +70,7 @@ I specialize in the high-stakes world of **High-Speed SerDes** and **SoC Verific
 
 ---
 
----
+--- 
 
 ## 🌐 Let's Sync Logic
 <p align="center">
