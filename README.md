@@ -44,11 +44,6 @@ I specialize in the high-stakes world of **High-Speed SerDes** and **SoC Verific
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,linux,git" />
 </p>
 
-| AI Domain | Specific Verification Focus |
-| :--- | :--- |
-| **Deep Learning** | Waveform Pattern Recognition & Anomaly Detection |
-| **LLMs** | Prompt Engineering for Automated Testcase Generation |
-| **ML Models** | Regression models for Regression Trend Analysis |
 
 ---
 
