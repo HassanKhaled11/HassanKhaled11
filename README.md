@@ -19,7 +19,7 @@
 ## 🧠 The Mission
 I specialize in the high-stakes world of **High-Speed SerDes** and **SoC Verification**. My approach combines the rigor of **UVM/SystemVerilog** with the efficiency of **AI-driven automation** to eliminate escapes before tapeout.
 
-* 🚀 **Currently:** Scaling AI-powered coverage gap detection.
+* 🚀 **Currently:** Developing and Scaling AI-powered verification flow applications.
 * 🔬 **Expertise:** UVM, GLS, SVA, and Constrained Random Verification.
 * ⚡ **Goal:** Zero-defect silicon through intelligent, scalable environments.
 
