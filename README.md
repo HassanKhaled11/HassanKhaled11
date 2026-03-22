@@ -1,7 +1,7 @@
 <div align="center">
   <h1> Hassan Khaled </h1>
   
-  ### Verification Engineer | UVM | SystemVerilog | High-Speed SerDes | AI/ML Driven Verification
+  ### Verification Engineer  | Researcher & Developer with AI/ML Driven Verification | UVM | SystemVerilog | High-Speed SerDes 
   
   *4+ Years of engineering confidence in silicon through intelligent verification.*
 
