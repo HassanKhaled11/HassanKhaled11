@@ -81,39 +81,6 @@ I am a **Verification Engineer** specializing in **High-Speed SerDes** and **SoC
   <img src="https://skillicons.dev/icons?i=py,cpp,git,linux,docker,pytorch,tensorflow,vscode" />
 </p>
 
----
-
-## Flagship Project — VeriAware
-
-> **Compiler-accurate RTL knowledge graph for AI-driven IC verification**
-
-Traditional LLM-based RTL analysis guesses at structure from source text — it gets widths wrong, misses implicit connections, and hallucinates relationships. VeriAware takes a different approach:
-
-**1. Exact extraction via slang**
-The slang SystemVerilog compiler front-end elaborates the design — resolving all parameters, unrolling generates, building the full hierarchy — and serializes the result to JSON. Every signal has its exact bit-width. Every port connection is traced. No guessing.
-
-**2. Graph database via KuzuDB**
-The elaborated design loads into KuzuDB as a typed property graph. Signals, ports, FSM states, always blocks, covergroups, assertions, and their relationships become queryable in Cypher. A fanout cone query takes milliseconds instead of a manual trace through waveforms.
-
-**3. AI agents via LangGraph**
-Specialized agents — Debug, Coverage, CDC, Hierarchy — each own a query domain. A router classifies the engineer's question and dispatches to the right agent. The agent selects a parameterized Cypher template, executes it against KuzuDB, and passes structured results to an LLM synthesiser that produces a natural-language answer.
-
-**Result:** Questions that take 30 minutes of waveform digging are answered in seconds with full RTL traceability.
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HassanKhaled11&theme=tokyonight&hide_border=true&background=00000000" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=HassanKhaled11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" width="49%" />
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanKhaled11&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" width="49%" />
-</div>
 
 ---
 
