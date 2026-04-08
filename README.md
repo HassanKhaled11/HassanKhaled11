@@ -30,25 +30,25 @@ My conviction is that the next generation of verification engineers will not wri
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                Agentic Verification Platform                    │
-│                                                                  │
-│   RTL Source  ──►  slang compiler  ──►  KuzuDB Graph DB          │
-│      .v / .sv      (exact AST JSON)    (Cypher queries)          │
-│                                              │                   │
-│                                              ▼                   │
-│                                    LangGraph Agents              │
-│                              ┌───────────────────────┐           │
-│                              │  Debug  │  Coverage   │           │
-│                              │  Agent  │    Agent    │           │
-│                              │─────────│─────────────│           │
-│                              │   CDC   │  Hierarchy  │           │
-│                              │  Agent  │    Agent    │           │
-│                              └───────────────────────┘           │
-│                                              │                   │
-│                                              ▼                   │
-│                              LLM Synthesiser (Claude / Ollama)   │
-│                                              │                   │
-│                                              ▼                   │
-│                         Engineer-readable answers in seconds     │
+│                                                                 │
+│   RTL Source  ──►  slang compiler  ──►  KuzuDB Graph DB         │
+│      .v / .sv      (exact AST JSON)    (Cypher queries)         │
+│                                              │                  │
+│                                              ▼                  │
+│                                    LangGraph Agents             │
+│                              ┌───────────────────────┐          │
+│                              │  Debug  │  Coverage   │          │
+│                              │  Agent  │    Agent    │          │
+│                              │─────────│─────────────│          │
+│                              │   CDC   │  Hierarchy  │          │
+│                              │  Agent  │    Agent    │          │
+│                              └───────────────────────┘          │
+│                                              │                  │
+│                                              ▼                  │
+│                              LLM Synthesiser (Claude / Ollama)  │
+│                                              │                  │
+│                                              ▼                  │
+│                         Engineer-readable answers in seconds    │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
