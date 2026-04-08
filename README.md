@@ -84,22 +84,6 @@ I am a **Verification Engineer** specializing in **High-Speed SerDes** and **SoC
 
 ---
 
-## Experience Snapshot
-
-```
-Timeline ──────────────────────────────────────────────────────────►
-
- 2020          2021          2022          2023          2024-25
-  │             │             │             │               │
-  ▼             ▼             ▼             ▼               ▼
-UVM/SV       SerDes        SoC-level    AI-driven       Full Agentic/ML
-foundations  verification  regression   automation      platform for DV
-             & protocol    & GLS        research        development
-             analysis      debug
-```
-
----
-
 ## Current Focus
 
 - Building VeriAware agent pipeline: slang → KuzuDB → LangGraph → Claude
