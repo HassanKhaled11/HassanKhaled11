@@ -29,9 +29,9 @@ My conviction is that the next generation of verification engineers will not wri
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                        VeriAware Platform                        │
+│                Agentic Verification Platform                    │
 │                                                                  │
-│  RTL Source  ──►  slang compiler  ──►  KuzuDB Graph DB          │
+│   RTL Source  ──►  slang compiler  ──►  KuzuDB Graph DB          │
 │      .v / .sv      (exact AST JSON)    (Cypher queries)          │
 │                                              │                   │
 │                                              ▼                   │
@@ -77,7 +77,7 @@ My conviction is that the next generation of verification engineers will not wri
 | **LLM Integration** | Claude API, Ollama (local models), prompt engineering, RAG pipelines |
 | **RTL Parsing** | slang compiler (C++ AST), pyslang, AST traversal, JSON schema extraction |
 | **ML** | Python, PyTorch, scikit-learn, HDBSCAN clustering, LightGBM |
-| **Vector DBs** | LanceDB, embeddings, semantic search over RTL descriptions |
+| **Vector DBs** | embeddings, semantic search over RTL descriptions |
 
 ### Software Engineering
 
@@ -129,8 +129,8 @@ Timeline ───────────────────────�
  2020          2021          2022          2023          2024-25
   │             │             │             │               │
   ▼             ▼             ▼             ▼               ▼
-UVM/SV       SerDes        SoC-level    AI-driven       VeriAware
-foundations  verification  regression   automation      platform
+UVM/SV       SerDes        SoC-level    AI-driven       Full Agentic/ML
+foundations  verification  regression   automation      platform for DV
              & protocol    & GLS        research        development
              analysis      debug
 ```
@@ -161,7 +161,5 @@ foundations  verification  regression   automation      platform
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
-
-*"Verification is the art of proving a negative. If I'm doing my job right, nothing happens — and that's the hardest thing to ship."*
 
 </div>
