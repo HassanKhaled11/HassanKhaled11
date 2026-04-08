@@ -19,10 +19,6 @@
 
 I am a **Verification Engineer** specializing in **High-Speed SerDes** and **SoC verification**, with 4+ years of experience engineering confidence into silicon before tapeout. My work sits at the intersection of classical verification discipline — UVM, SVA, constrained-random — and modern AI-driven tooling that scales what a single engineer can achieve.
 
-I am currently building **VeriAware**, an AI-powered IC verification platform that combines compiler-accurate RTL extraction (slang), knowledge graph analysis (KuzuDB), and LangGraph agent orchestration to automate root cause analysis, coverage closure, and debug workflows that today require hours of manual trace.
-
-My conviction is that the next generation of verification engineers will not write more testbench code — they will build systems that write it for them.
-
 ---
 
 ## What I Build
