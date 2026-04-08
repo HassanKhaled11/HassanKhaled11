@@ -21,35 +21,6 @@ I am a **Verification Engineer** specializing in **High-Speed SerDes** and **SoC
 
 ---
 
-## What I Build
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                Agentic Verification Platform                    │
-│                                                                 │
-│   RTL Source  ──►  slang compiler  ──►  KuzuDB Graph DB         │
-│      .v / .sv      (exact AST JSON)    (Cypher queries)         │
-│                                              │                  │
-│                                              ▼                  │
-│                                    LangGraph Agents             │
-│                              ┌───────────────────────┐          │
-│                              │  Debug  │  Coverage   │          │
-│                              │  Agent  │    Agent    │          │
-│                              │─────────│─────────────│          │
-│                              │   CDC   │  Hierarchy  │          │
-│                              │  Agent  │    Agent    │          │
-│                              └───────────────────────┘          │
-│                                              │                  │
-│                                              ▼                  │
-│                              LLM Synthesiser (Claude / Ollama)  │
-│                                              │                  │
-│                                              ▼                  │
-│                         Engineer-readable answers in seconds    │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
 ## Core Expertise
 
 ### Silicon Verification
@@ -86,7 +57,7 @@ I am a **Verification Engineer** specializing in **High-Speed SerDes** and **SoC
 
 ## Current Focus
 
-- Building VeriAware agent pipeline: slang → KuzuDB → LangGraph → Claude
+- Building agentic pipeline
 - Designing Cypher query templates for RTL debug and coverage closure
 - Exploring formal methods integration with AI-assisted property generation
 - Contributing to open-source EDA tooling
