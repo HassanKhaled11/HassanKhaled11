@@ -27,11 +27,11 @@ I am a **Verification Engineer** specializing in **High-Speed SerDes** and **SoC
 
 | Domain | Skills |
 |---|---|
-| **Methodology** | UVM (Universal Verification Methodology), Constrained Random Verification (CRV), Coverage-Driven Verification (CDV), Gate-Level Simulation (GLS) |
-| **Languages** | SystemVerilog, Verilog, VHDL, TCL |
+| **Methodology** | UVM (Universal Verification Methodology), RAL (Register Abstraction Layer), Constrained Random Verification (CRV), Coverage-Driven Verification (CDV), Gate-Level Simulation (GLS) |
+| **Languages** | SystemVerilog, Verilog, TCL |
 | **Assertions** | SVA (SystemVerilog Assertions), formal property specification, assertion-based debug |
 | **Protocols** | AXI4, AHB, APB, PCIe, High-Speed SerDes (PAM4, NRZ), USB, I2C, SPI |
-| **EDA Tools** | Synopsys VCS, Verdi, Cadence Xcelium, QuestaSim |
+| **EDA Tools** | Synopsys VCS, Verdi, QuestaSim |
 | **Coverage** | Functional coverage, code coverage, cross coverage, coverage closure automation |
 | **Debug** | Waveform analysis, signal tracing, root cause analysis, regression triage |
 
